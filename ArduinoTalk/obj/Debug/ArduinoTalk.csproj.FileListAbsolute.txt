@@ -1,0 +1,6 @@
+c:\users\mathias\documents\visual studio 2012\Projects\ArduinoTalk\ArduinoTalk\bin\Debug\ArduinoTalk.exe.config
+c:\users\mathias\documents\visual studio 2012\Projects\ArduinoTalk\ArduinoTalk\bin\Debug\ArduinoTalk.exe
+c:\users\mathias\documents\visual studio 2012\Projects\ArduinoTalk\ArduinoTalk\bin\Debug\ArduinoTalk.pdb
+c:\users\mathias\documents\visual studio 2012\Projects\ArduinoTalk\ArduinoTalk\obj\Debug\ArduinoTalk.csprojResolveAssemblyReference.cache
+c:\users\mathias\documents\visual studio 2012\Projects\ArduinoTalk\ArduinoTalk\obj\Debug\ArduinoTalk.exe
+c:\users\mathias\documents\visual studio 2012\Projects\ArduinoTalk\ArduinoTalk\obj\Debug\ArduinoTalk.pdb
